@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aeon Toran - Ticket Hub</string>
+    <string name="title_concert_ticket_hub">Concert Ticket Hub</string>
+    <string name="hint_number_of_tickets">Number of tickets</string>
+    <string name="btn_calculate_cost">Calculate Cost</string>
+    <string name="total_cost_label">Total Cost: </string>
+
+    <string-array name="event_array">
+        <item>Pop Music Festival - $49.99 per ticket</item>
+        <item>Jazz Music Festival - $45.99 per ticket</item>
+        <item>Country Music Festival - $42.99 per ticket</item>
+    </string-array>
+</resources>
